@@ -166,7 +166,7 @@ body, html {
     transform: rotate(90deg);
 }
 
-.header_social-link {
+.header__social-link {
     font-family: Rubik;
     font-style: normal;
     font-weight: 500;
